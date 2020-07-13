@@ -1,4 +1,4 @@
-# CovertChannels
+# Covert Channels
 ### This project was to detect a covert channel security attack
 #### Covert Channel security attack
 This form of attack creates a capability to transfer information objects between processes that are not allowed to communicate due to the computer security policy.
